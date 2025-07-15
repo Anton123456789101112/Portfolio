@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/x-icon" href="/Images/favicon.ico">
+    <link rel="stylesheet" href="stylesheet.css">
+
+    <title>Anton Hjalt</title>
+</head>
+<body>
+
+
+    <div class="navbar-container">
+        <a href="https://www.youtube.com" id="resume" target="_blank" alt="link to resume pdf">Resume</a>
+        <nav>
+            <a href="#">About</a>
+            <a href="#">Projects</a>
+            <a href="#">Contact</a>
+        </nav>
+    </div>
+
+    <main>
+        <article class="text">
+            <h3>Hello, my name is</h3> <br>
+            <h1>Anton Hjalt</h1> <br>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+            Soluta voluptatem tempora non vitae labore numquam earum, 
+            tenetur inventore a odio sapiente laudantium aperiam quibusdam 
+            quaerat! Repellendus fugiat quidem labore minus!</p>
+        </article>
+
+        <section id="about" class="text">
+            <h1 id="h1">About me</h1> <br>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+            Hic odio deleniti error atque inventore dolores consequuntur 
+            dolor soluta, temporibus libero, in voluptatum a. Eveniet soluta, 
+            ipsum maxime dolorem incidunt reiciendis.</p>
+        </section>
+
+        <section id="projects" class="text">
+
+        </section>
+
+        <footer id="contact" class="text">
+
+        </footer>
+    </main>
+    
+</body>
+</html>
