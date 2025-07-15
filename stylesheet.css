@@ -259,6 +259,23 @@ footer i:hover, #mail:hover {
     } 
 }
 
+@media only screen and (max-width: 500px) {
+    main {
+        max-width: 300px;
+    }
+
+    nav a{
+        
+        margin-right: 10px
+    }
+
+    img {
+        margin-top: 30px;
+        width: 30%;
+    }
+
+}
+
 
 
 
